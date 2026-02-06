@@ -1,8 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Documentation
-    url: https://kodama.monster/docs
-    about: Read the protocol and SDK docs before filing an issue
-  - name: X (Twitter)
-    url: https://x.com/kodamamonster
-    about: Reach the team on X
