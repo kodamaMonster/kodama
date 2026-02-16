@@ -224,3 +224,7 @@ Command-line interface built on Commander.js. Provides direct access to all game
 - API server on localhost with local PostgreSQL
 - Agents run in the same terminal for debugging
 - No proxy needed
+
+## Clock anchoring
+
+All world state is anchored to the SERVER_START timestamp for deterministic replay.
