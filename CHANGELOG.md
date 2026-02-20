@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [0.1.0]: https://github.com/kodamacom/kodama/releases/tag/v0.1.0
 
 ## [Unreleased]
+- doc: deployment table on README
 - chore: align dependencies across workspace
 - fix: rate limiter window calculation
 - chore: switch to dtolnay/rust-toolchain
