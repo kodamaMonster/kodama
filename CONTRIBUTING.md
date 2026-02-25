@@ -143,3 +143,7 @@ If you discover a security vulnerability, do NOT open a public issue. See [SECUR
 ## License
 
 By contributing to KODAMA, you agree that your contributions will be licensed under the MIT License.
+
+## Commit style
+
+Conventional commits: feat, fix, refactor, docs, chore, test, perf.
