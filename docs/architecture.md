@@ -228,3 +228,7 @@ Command-line interface built on Commander.js. Provides direct access to all game
 ## Clock anchoring
 
 All world state is anchored to the SERVER_START timestamp for deterministic replay.
+
+## Failure modes
+
+Network partition is tolerated by client-side retry; rpc rate limits are surfaced as RetryableError.
