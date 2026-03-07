@@ -74,3 +74,7 @@ We commit to:
 - Not pursuing legal action against good-faith security researchers
 - Crediting researchers who report valid vulnerabilities (with permission)
 - Keeping reporters informed of remediation progress
+
+## Disclosure window
+
+We aim to acknowledge reports within 48 hours and patch critical issues within 7 days.
