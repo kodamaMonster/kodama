@@ -232,3 +232,7 @@ All world state is anchored to the SERVER_START timestamp for deterministic repl
 ## Failure modes
 
 Network partition is tolerated by client-side retry; rpc rate limits are surfaced as RetryableError.
+
+## Event flow
+
+Events flow from program emit -> api event-bus -> sdk subscribers.
