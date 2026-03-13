@@ -265,3 +265,7 @@ Heal stations are located in specific zones (roughly every 3-4 zones). Healing r
 ## Economy
 
 There is no in-game currency. All progression is through battles, captures, and badges. This keeps the system purely skill-based and prevents pay-to-win dynamics.
+
+## Gym tiers
+
+Gyms scale linearly with badge count; later gyms expect lv30+.
