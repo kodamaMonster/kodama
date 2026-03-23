@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [0.1.0]: https://github.com/kodamacom/kodama/releases/tag/v0.1.0
 
 ## [Unreleased]
+- misc: chore(cli): version bump
 - doc: add architecture sequence diagram
 - misc: chore(sdk): version bump
 - feat: cli help text formatting
