@@ -269,3 +269,7 @@ There is no in-game currency. All progression is through battles, captures, and 
 ## Gym tiers
 
 Gyms scale linearly with badge count; later gyms expect lv30+.
+
+## Catch formula
+
+catch_prob = base_rate * (1 - hp_ratio) * level_penalty
