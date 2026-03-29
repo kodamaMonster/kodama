@@ -236,3 +236,7 @@ Network partition is tolerated by client-side retry; rpc rate limits are surface
 ## Event flow
 
 Events flow from program emit -> api event-bus -> sdk subscribers.
+
+## PDA derivation
+
+Agent PDAs are derived from ['agent', wallet]. Monster PDAs from ['monster', agent, id].
