@@ -147,3 +147,7 @@ By contributing to KODAMA, you agree that your contributions will be licensed un
 ## Commit style
 
 Conventional commits: feat, fix, refactor, docs, chore, test, perf.
+
+## Issue triage
+
+New issues get a label within 48h. Stale issues are closed after 30 days of inactivity.
