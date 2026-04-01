@@ -8,3 +8,7 @@ export function randomTeam() {
 export function airdropTo() {
   // airdrop to test wallet
 }
+
+export function waitForSlot() {
+  // blocks until target slot
+}
