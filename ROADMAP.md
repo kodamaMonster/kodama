@@ -17,3 +17,7 @@ Only shipped items are tracked. Unreleased items are not listed.
 - [x] Web client live at [kodama.com](https://kodama.com)
 
 For the current state of development, see [`CHANGELOG.md`](CHANGELOG.md).
+
+## Shipped Q1 2026
+
+Initial program, SDK, CLI, API, devnet deployment.
