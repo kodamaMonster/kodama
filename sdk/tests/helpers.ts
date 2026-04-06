@@ -12,3 +12,7 @@ export function airdropTo() {
 export function waitForSlot() {
   // blocks until target slot
 }
+
+export function mockAgent() {
+  // returns Agent stub
+}
