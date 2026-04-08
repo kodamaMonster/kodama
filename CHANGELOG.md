@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [0.1.0]: https://github.com/kodamacom/kodama/releases/tag/v0.1.0
 
 ## [Unreleased]
+- misc: chore: add keywords to package.json
 - fix: race condition in event bus
 - fix: gym badge double-mint guard
 - perf: cache pda derivation
