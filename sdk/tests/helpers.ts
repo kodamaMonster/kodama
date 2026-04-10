@@ -16,3 +16,7 @@ export function waitForSlot() {
 export function mockAgent() {
   // returns Agent stub
 }
+
+export function countEvents() {
+  // count by type
+}
