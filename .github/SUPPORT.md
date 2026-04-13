@@ -6,3 +6,4 @@
 - X: https://x.com/kodamamonster
 
 For security issues, see [SECURITY.md](../SECURITY.md). Please do not file public issues for vulnerabilities.
+- Discord: coming soon
