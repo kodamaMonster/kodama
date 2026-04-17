@@ -273,3 +273,7 @@ Gyms scale linearly with badge count; later gyms expect lv30+.
 ## Catch formula
 
 catch_prob = base_rate * (1 - hp_ratio) * level_penalty
+
+## Type chart highlights
+
+Fire is 2x vs grass and bug. Water is 2x vs fire, ground, rock. Grass is 2x vs water, ground, rock.
