@@ -277,3 +277,7 @@ catch_prob = base_rate * (1 - hp_ratio) * level_penalty
 ## Type chart highlights
 
 Fire is 2x vs grass and bug. Water is 2x vs fire, ground, rock. Grass is 2x vs water, ground, rock.
+
+## Evolution timing
+
+Stage 1 -> 2 at lv20, stage 2 -> 3 at lv40. No items required.
