@@ -20,3 +20,7 @@ export function mockAgent() {
 export function countEvents() {
   // count by type
 }
+
+export function simulateBattle() {
+  // simulate without rpc
+}
