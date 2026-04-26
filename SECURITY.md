@@ -78,3 +78,7 @@ We commit to:
 ## Disclosure window
 
 We aim to acknowledge reports within 48 hours and patch critical issues within 7 days.
+
+## Audit history
+
+Pre-mainnet audits planned. No audits completed yet.
