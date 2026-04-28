@@ -151,3 +151,7 @@ Conventional commits: feat, fix, refactor, docs, chore, test, perf.
 ## Issue triage
 
 New issues get a label within 48h. Stale issues are closed after 30 days of inactivity.
+
+## Local development
+
+Run `cargo check --workspace` and `cd sdk && npx tsc --noEmit` before opening a PR.
