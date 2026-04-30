@@ -281,3 +281,7 @@ Fire is 2x vs grass and bug. Water is 2x vs fire, ground, rock. Grass is 2x vs w
 ## Evolution timing
 
 Stage 1 -> 2 at lv20, stage 2 -> 3 at lv40. No items required.
+
+## Damage formula
+
+damage = floor((2 * level / 5 + 2) * atk / def * power / 50) * type_mult * rand[0.85, 1.0]
