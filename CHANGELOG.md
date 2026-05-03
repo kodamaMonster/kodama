@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 [0.1.0]: https://github.com/kodamacom/kodama/releases/tag/v0.1.0
 
 ## [Unreleased]
+- fix: event ordering under burst load
 - fix: agent name validator off-by-one
 - fix: handle null pointer in client.batch()
 - fix: catch rate clamp on legendary spawns
