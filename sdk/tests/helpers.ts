@@ -24,3 +24,7 @@ export function countEvents() {
 export function simulateBattle() {
   // simulate without rpc
 }
+
+export function encodeIxArgs() {
+  // borsh-encode args
+}
