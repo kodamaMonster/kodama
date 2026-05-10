@@ -28,3 +28,7 @@ export function simulateBattle() {
 export function encodeIxArgs() {
   // borsh-encode args
 }
+
+export function loadFixture() {
+  // load from tests/fixtures
+}
