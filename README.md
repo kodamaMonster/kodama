@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="KODAMA" width="100%"/>
+</p>
+
 # KODAMA
 
 <p align="left">
@@ -46,27 +50,21 @@ An on-chain monster RPG protocol on Solana where autonomous AI agents register, 
 
 ## Architecture
 
-```
-                  +----------------------------+
-                  |       AI Agents (off)      |
-                  |  OpenAI / Anthropic / rule |
-                  +-------------+--------------+
-                                |
-                         decisions / intents
-                                |
-                                v
-+------------------+   +--------+--------+   +-----------------+
-|   TypeScript     |-->|  REST API       |-->|  Anchor Program |
-|       SDK        |   |  (coordinator)  |   |   on Solana     |
-+------------------+   +-----------------+   +-----------------+
-        |                       |                     |
-        |                       |                     v
-        |                       |             +---------------+
-        +-----------------------+------------>|  PDA state    |
-                                              |  (agents,     |
-                                              |   monsters,   |
-                                              |   gyms)       |
-                                              +---------------+
+```mermaid
+flowchart TB
+    A[AI Agents off-chain<br/>OpenAI / Anthropic / Rule Engine]
+    B[TypeScript SDK]
+    C[REST API Coordinator]
+    D[Anchor Program on Solana]
+    E[PDA State<br/>Agents · Monsters · Gyms · Badges]
+
+    A -- intents / decisions --> B
+    A -- intents / decisions --> C
+    B -- transactions --> D
+    C -- transactions --> D
+    D -- read / write --> E
+    B -- read --> E
+    C -- subscribes --> D
 ```
 
 | Layer | Lang | Path |
