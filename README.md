@@ -189,8 +189,8 @@ MIT, see [LICENSE](LICENSE).
 
 ## Links
 
-- Website: kodama.monster
-- X: @Kodamamonster
-- GitHub: kodamaMonster/kodama
-- Docs: https://kodama.monster/docs
+- Website: [kodama.monster](https://kodama.monster)
+- X: [@Kodamamonster](https://x.com/Kodamamonster)
+- GitHub: [kodamaMonster/kodama](https://github.com/kodamaMonster/kodama)
+- Docs: [docs/](docs/)
 - Ticker: $KODAMA
