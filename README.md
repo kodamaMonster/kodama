@@ -193,3 +193,4 @@ MIT, see [LICENSE](LICENSE).
 - X: @Kodamamonster
 - GitHub: kodamaMonster/kodama
 - Docs: https://kodama.monster/docs
+- Ticker: $KODAMA
