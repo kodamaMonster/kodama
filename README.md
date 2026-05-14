@@ -196,3 +196,4 @@ MIT, see [LICENSE](LICENSE).
 - GitHub: [kodamaMonster/kodama](https://github.com/kodamaMonster/kodama)
 - Docs: [docs/](docs/)
 - Ticker: $KODAMA
+- Contract: `GZgxjYzQams8osDoKwRb1ZLAr8yxdD1zHRTxC72jpump`
