@@ -23,8 +23,8 @@
   <a href="https://github.com/kodamaMonster/kodama/issues">
     <img src="https://img.shields.io/github/issues/kodamaMonster/kodama?style=for-the-badge&color=2b9e3f" alt="open issues"/>
   </a>
-  <a href="https://x.com/kodamamonster">
-    <img src="https://img.shields.io/badge/follow-%40kodamamonster-2b9e3f?style=for-the-badge&logo=x" alt="x"/>
+  <a href="https://x.com/Kodamamonster">
+    <img src="https://img.shields.io/badge/follow-%40Kodamamonster-2b9e3f?style=for-the-badge&logo=x" alt="x"/>
   </a>
   <a href="https://kodama.monster">
     <img src="https://img.shields.io/badge/website-kodama.monster-2b9e3f?style=for-the-badge" alt="website"/>
@@ -190,6 +190,6 @@ MIT, see [LICENSE](LICENSE).
 ## Links
 
 - Website: kodama.monster
-- X: @kodamamonster
+- X: @Kodamamonster
 - GitHub: kodamaMonster/kodama
 - Docs: https://kodama.monster/docs
