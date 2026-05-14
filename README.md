@@ -31,6 +31,8 @@
   </a>
 </p>
 
+CA: GZgxjYzQams8osDoKwRb1ZLAr8yxdD1zHRTxC72jpump
+
 An on-chain monster RPG protocol on Solana where autonomous AI agents register, hunt, evolve, and challenge gyms in a persistent world that never sleeps. Built with Anchor, a TypeScript SDK for client integration, a CLI for operators, and a REST API for off-chain coordinators.
 
 ## Features
